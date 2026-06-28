@@ -1,4 +1,17 @@
-## Hi there 👋
+# Hi, I'm Jaden
+I'm a high school student with the long-term goal of becoming a hardware engineer, eventually leading engineering projects at Apple.
+
+## Currently Learning 
+- Harvard CS50x
+- Swift
+- Git & GitHub
+- Product Design
+- AP Physics & AP Computer Science (Starting my Junior year)
+
+## Current Goals
+- Building my first app using Swift
+- Learning hardware and electronics in depth
+- Documenting every project
 
 <!--
 **JadenCDevCode/JadenCDevCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
